@@ -13,7 +13,7 @@ const Projects = () => {
             <h2 className="pubmed-project">PubMed API</h2>
             <p>Developed a web application for retrieving scientific articles from the
                 PubMed API that saves data in a PostgreSQL database that I set up. Feel free to try a search
-                term <a href="https://pubmedapi-0fl5.onrender.com/" target="_blank" rel="noopener noreferrer">
+                term <a href="https://pubmedapi-0fl5.onrender.com" target="_blank" rel="noopener noreferrer">
                 <u>here</u></a> </p>
             
             <h2 className="adventofcode-project">Advent of Code 2024</h2>
